@@ -1,5 +1,5 @@
-#include <FreeRTOS.h>
-#include <task.h>
+#include </home/timo/FreeRTOSv202107.00/FreeRTOS/Source/include/FreeRTOS.h>
+#include </home/timo/FreeRTOSv202107.00/FreeRTOS/Source/include/task.h>
 
 // Task function for Task1
 void Task1Function(void *pvParameters) {
